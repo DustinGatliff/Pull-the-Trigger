@@ -1,0 +1,20 @@
+C:\Users\Robot\AppData\Local\Temporary Projects\Pull the Trigger\bin\Debug\Pull the Trigger.exe
+C:\Users\Robot\AppData\Local\Temporary Projects\Pull the Trigger\bin\Debug\Pull the Trigger.pdb
+C:\Users\Robot\AppData\Local\Temporary Projects\Pull the Trigger\obj\x86\Debug\Pull_the_Trigger.Form1.resources
+C:\Users\Robot\AppData\Local\Temporary Projects\Pull the Trigger\obj\x86\Debug\Pull_the_Trigger.Properties.Resources.resources
+C:\Users\Robot\AppData\Local\Temporary Projects\Pull the Trigger\obj\x86\Debug\Pull the Trigger.csproj.GenerateResource.Cache
+C:\Users\Robot\AppData\Local\Temporary Projects\Pull the Trigger\obj\x86\Debug\Pull the Trigger.exe
+C:\Users\Robot\AppData\Local\Temporary Projects\Pull the Trigger\obj\x86\Debug\Pull the Trigger.pdb
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\obj\x86\Debug\Pull the Trigger.exe
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\obj\x86\Debug\Pull the Trigger.pdb
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\bin\Debug\Pull the Trigger.exe
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\bin\Debug\Pull the Trigger.pdb
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\obj\x86\Debug\Pull_the_Trigger.Form1.resources
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\obj\x86\Debug\Pull_the_Trigger.Properties.Resources.resources
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\obj\x86\Debug\Pull the Trigger.csproj.GenerateResource.Cache
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\obj\x86\Debug\Pull_the_Trigger.About.resources
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\bin\Debug\Pull the Trigger.exe.manifest
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\bin\Debug\Pull the Trigger.application
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\obj\x86\Debug\Pull the Trigger.TrustInfo.xml
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\obj\x86\Debug\Pull the Trigger.exe.manifest
+C:\Users\Robot\Documents\Visual Studio 2010\Projects\Pull the Trigger\Pull the Trigger\obj\x86\Debug\Pull the Trigger.application
